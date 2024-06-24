@@ -20,5 +20,5 @@ I want to communicate with the world through my own unique service.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpdlaos6)](https://github.com/anuraghazra/github-readme-stats)
