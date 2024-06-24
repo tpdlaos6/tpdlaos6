@@ -2,9 +2,8 @@
 
 I am a backend developer who mainly uses Java and Spring.<br>
 I want to communicate with the world through my own unique service.
-
-
-
+<br>
+<br>
 
 
 ## my Skills 🤗
