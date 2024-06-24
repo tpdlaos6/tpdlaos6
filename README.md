@@ -5,6 +5,8 @@ I want to communicate with the world through my own unique service.
 
 
 
+
+
 ## my Skills 🤗
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,3 +20,6 @@ I want to communicate with the world through my own unique service.
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpdlaos6)](https://github.com/anuraghazra/github-readme-stats)
