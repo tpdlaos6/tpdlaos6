@@ -3,7 +3,9 @@
 I am a backend developer who mainly uses Java and Spring.<br>
 I want to communicate with the world through my own unique service.
 
-## my Skills
+
+
+## my Skills 🤗
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
